@@ -3,8 +3,11 @@
 1. clear
 2. cd <project dir>
 3. ls -a //to shaw hidden files
+
 4. git init
 5. git status
+echo "# Project Name" >> README.md
+git add README.md
 6. git add . //to add all files
 7. git commit -m "some text"
 8. git log
