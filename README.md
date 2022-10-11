@@ -20,5 +20,5 @@
 - git pull //to pull files from remote github to local git
 - git mergetool //to solve merge conflict
 
-help.github.com
-learngitbranching.js.org
+- help.github.com
+- learngitbranching.js.org
