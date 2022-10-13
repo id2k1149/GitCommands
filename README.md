@@ -16,7 +16,8 @@
 - git branch -d <branch name> //to delete
 - git merge <another branch name>
 - git remote add origin https://github.com/id2k1149/<MyProjectName>.git
-- git push -u origin main //to push local files to remote github
+- git push -u origin main //to push local files to main remote github
+- git restore <file>  
 - git pull //to pull files from remote github to local git
 - git mergetool //to solve merge conflict
 
