@@ -14,6 +14,7 @@
 - git checkout <new branch name> 
 - git checkout -b <new branch name> //to create + checkout
 - git branch -d <branch name> //to delete
+- git branch -m newName // to rename
 - git merge <another branch name>
 - git remote add origin https://github.com/id2k1149/<MyProjectName>.git
 - git push -u origin main //to push local files to main remote github
